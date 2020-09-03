@@ -1,0 +1,12 @@
+#list{
+    width: 100%;
+    position: absolute;
+}
+.movie{
+    border: solid;
+    /* display: inline-block; */
+
+    background-color: rgb(35, 114, 88);
+
+
+}
