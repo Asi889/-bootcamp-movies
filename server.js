@@ -40,7 +40,6 @@ app.get(`/moviePic/:movieId`, function (req, res) {
 })
 
 
-
 const port = 8080
 app.listen(port, function () {
     console.log(`Running server on port ${port}`);
